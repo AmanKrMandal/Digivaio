@@ -1,0 +1,354 @@
+
+.mainHeader{
+    background:  linear-gradient(121.16deg, #FCFCFC 18.31%, #EAEFF3 73.06%, #D0E3F1 96.73%);
+}
+
+.header{
+/* margin-top: 35.0rem; */
+    padding-top: 1.0rem;
+    margin: .0rem 10.0rem 0 10.0rem ; 
+
+}
+
+.navbar-nav{
+    margin-left: 8.5rem;
+    font-weight: 400;
+    font-size: 2.0rem;
+    line-height: 4.0rem;
+    margin-top: 1.0rem;
+}
+.nav-item{
+    margin-left: 5.2rem;
+}
+.btn-outline-dark{
+    padding:1.0rem 3.5rem 1.0rem 3.5rem ; 
+    margin-right:10.0rem ;
+    border-radius: .8rem;
+    font-size: 1.8rem;
+    border: .2rem solid black;
+    margin-left: 5.0rem;
+    }
+.btn-primary{
+    padding:1.0rem 4.0rem 1.0rem 4.0rem ; 
+    border: #00A5BF;
+    background: #00A5BF;
+    border-radius: .8rem;
+}
+
+
+
+/* section1 */
+
+.section{
+    margin: .0rem 10.0rem 0 10.0rem ; 
+}
+.imgclass{
+    margin-bottom: 7.0rem;
+}
+.profess{
+    font-weight: 600;
+    font-size: 4.9rem;
+    line-height: 5.7rem;
+}
+.clean{
+font-size: 2.2rem;
+line-height: 3.0rem;
+}
+.btn3{
+    padding: 1.0rem 7.0rem;
+    margin-top: 2.0rem;
+    color: aliceblue;
+    background: #242829;
+    border-radius: .8rem;
+}
+.section1{
+    margin-top: 1.5rem;
+}
+.section1Img{
+    margin-top: -5.0rem;
+    width: 67.9rem; 
+    height: 77.9rem;
+}
+/* ------------ */
+
+
+
+
+
+/* section 3 */
+.secTwo{
+    color: aliceblue;
+}
+.section3{
+    margin: .0rem 10.0rem 0 10.0rem ; 
+}
+.secTwoP{
+    opacity: 0.9;
+    font-size: 1.8rem;
+}
+.sectionp{
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+.secTwoH{
+    font-size: 14.0rem;
+    color: rgba(255, 255, 255, 0.13);
+}
+.setiontwo{
+    margin-top: 25.0rem;
+}
+.cleans{
+    font-size: 2.2rem;
+    line-height: 3.0rem;
+    opacity: 0.9;
+}
+
+/* ------------------------------------------ */
+
+.ddd{
+    margin: -83.9rem 8.0rem .0rem 8.0rem ; 
+}
+.sect3{
+    padding: 1.0rem .0rem;
+    box-shadow: .0rem .4rem 1.1rem rgba(0, 0, 0, 0.25);
+    border-radius: 1.5rem;
+    background-color: rgb(253, 253, 253);
+}
+.Schedule{
+    font-weight: 600;
+    font-size: 3.0rem;
+    margin-left: 3.9rem;
+}
+.setion3{
+    border: .1rem solid rgba(0, 0, 0, 0.33);
+    border-radius: 1.0rem;
+    margin-top: 3.0rem;
+    margin-right: 2.0rem;
+    padding: 1.0rem 2.0rem .0rem 2.0rem;
+}
+.sectP{
+    font-size: 1.5rem;
+    color: #727475;
+}
+.data{
+    font-weight: 600;
+    font-size: 2.5rem;    
+}
+.btn4{
+    background: #00A5BF;
+    border-radius: 1.0rem;
+    color: aliceblue;
+    font-size: 2.5rem;
+    margin-top: 3.0rem;
+}
+/* .imgSect2{
+    max-width: 100%; height: auto;
+} */
+
+/* ----------------------------- */
+
+
+
+@media only screen and (max-width: 1024px){
+    html{
+        font-size: 50%;
+      }
+      .section1Img{
+        margin-top: -1.0rem;
+        width: 60.9rem; 
+        height: 70.9rem;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    html{
+        font-size: 40%;
+      }
+      .section1Img{
+        margin-top: -1.0rem;
+        width: 57.9rem; 
+        height: 67.9rem;
+    }
+    
+   
+}
+
+
+@media only screen and (max-width: 576px){
+    html{
+        font-size: 30%;
+      }
+      .section1Img{
+        margin-top: -1.0rem;
+        width: 52.9rem; 
+        height: 62.9rem;
+    }
+    
+}
+
+  
+@media only screen and (max-width: 375px){
+    html{
+        font-size: 28%;
+      }
+}
+
+
+
+
+/* -------------------- */
+
+@media only screen and (max-width: 1305px){
+    .navbar-nav{
+        margin-left: 2.5rem;
+        font-size: 1.5rem;
+
+    }
+    .nav-item{
+        margin-left: 3.2rem;
+    }
+    .btn-outline-dark{
+        padding:1.0rem 3.5rem 1.0rem 3.5rem ; 
+        font-size: 1rem;
+        }
+    .btn-primary{
+        padding:1.0rem 4.0rem 1.0rem 4.0rem ; 
+    }
+   
+}
+@media only screen and (max-width: 1368px){
+    .section1Img{
+        margin-top: -1.0rem;
+        width: 60.9rem; 
+        height: 70.9rem;
+    }
+    
+}@media only screen and (max-width: 1237px){
+    .section1Img{
+        margin-top: -1.0rem;
+        width: 50.9rem; 
+        height: 60.9rem;
+    }
+    
+}@media only screen and (max-width: 823px){
+    .section1Img{
+        margin-top: 8.0rem;
+        width: 45.9rem; 
+        height: 55.9rem;
+    }
+   
+    
+}@media only screen and (max-width: 926px){
+    html{
+        font-size: 45%;
+      }
+
+    
+}
+
+@media only screen and (max-width: 414px){
+    .section1Img {
+        max-width: 100%; height: auto;
+    } 
+    
+}
+
+@media only screen and (max-width: 1340px){
+    .ddd{
+        margin: -89rem 7.0rem .0rem 7.0rem ; 
+    }
+    
+}
+@media only screen and (max-width: 1079px){
+    .ddd{
+        margin: -91.9rem 6.0rem .0rem 6.0rem ; 
+    }
+  
+}
+@media only screen and (max-width: 925px){
+    
+}
+@media only screen and (max-width: 840px){
+    .ddd{
+        margin: -95.9rem 8.0rem .0rem 8.0rem ; 
+    }
+    
+}
+@media only screen and (max-width: 690px){
+    .Schedule{
+        font-size: 2.0rem;
+    }
+    .sectP{
+        font-size: 1.5rem;
+    }
+    .data{
+        font-size: 1.5rem;    
+    }
+    .btn4{
+        font-size: 1.5rem;
+    }
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 768px){
+    .ddd{
+        margin: -145.9rem 8.0rem .0rem 8.0rem ; 
+    }
+}
+
+@media only screen and (max-width: 578px){
+    .setiontwo{
+        margin-top: 40.0rem;
+    }
+    .ddd{
+        margin: -160.9rem 8.0rem .0rem 8.0rem ; 
+    }
+    
+}
+@media only screen and (max-width: 460px){
+   
+    .ddd{
+        margin: -178.9rem 8.0rem .0rem 8.0rem ; 
+    }
+}
+@media only screen and (max-width: 380px){
+    .ddd{
+        margin: -188.9rem 8.0rem .0rem 8.0rem ; 
+    }
+}
+@media only screen and (max-width: 364px){
+    .setiontwo{
+        margin-top: 50.0rem;
+    }
+    .ddd{
+        margin: -199.9rem 8.0rem .0rem 8.0rem ; 
+    }
+}
+@media only screen and (max-width: 312px){
+    
+    .ddd{
+        margin: -230.9rem 8.0rem .0rem 8.0rem ; 
+    }
+}
+@media only screen and (max-width: 307px){
+    
+    .ddd{
+        margin: -243.9rem 8.0rem .0rem 8.0rem ; 
+    }
+}
